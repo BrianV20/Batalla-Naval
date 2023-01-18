@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\bin\Debug\net7.0\Batalla_Naval.exe
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\bin\Debug\net7.0\Batalla_Naval.deps.json
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\bin\Debug\net7.0\Batalla_Naval.runtimeconfig.json
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\bin\Debug\net7.0\Batalla_Naval.dll
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\bin\Debug\net7.0\Batalla_Naval.pdb
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\Batalla_Naval.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\Batalla_Naval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\Batalla_Naval.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\Batalla_Naval.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\Batalla_Naval.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\Batalla_Naval.dll
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\refint\Batalla_Naval.dll
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\Batalla_Naval.pdb
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\Batalla_Naval.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programacion\repos\Proyectos\Batalla naval\Batalla_Naval\Batalla_Naval\obj\Debug\net7.0\ref\Batalla_Naval.dll
